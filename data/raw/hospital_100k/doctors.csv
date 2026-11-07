@@ -1,0 +1,81 @@
+id,biography,license_number,specialty,staff_id
+1,Accepting new patients,MD-464879,oncology,199
+2,Accepting new patients,MD-560781,internal_medicine,24
+3,Teaching faculty,MD-415493,internal_medicine,25
+4,Fellowship trained,MD-083078,family_medicine,90
+5,Accepting new patients,MD-519868,internal_medicine,170
+6,Board certified,MD-308709,orthopedics,145
+7,Fellowship trained,MD-551402,cardiology,190
+8,Board certified,MD-363374,general_surgery,39
+9,Fellowship trained,MD-169996,orthopedics,5
+10,Fellowship trained,MD-387976,pediatrics,122
+11,Fellowship trained,MD-931367,general_surgery,135
+12,Teaching faculty,MD-848820,internal_medicine,44
+13,Board certified,MD-694691,cardiology,173
+14,Fellowship trained,MD-564513,psychiatry,13
+15,Teaching faculty,MD-731757,family_medicine,120
+16,Fellowship trained,MD-171202,internal_medicine,64
+17,Teaching faculty,MD-194580,pediatrics,15
+18,Accepting new patients,MD-745962,pediatrics,189
+19,Teaching faculty,MD-668113,pediatrics,102
+20,Teaching faculty,MD-979657,orthopedics,169
+21,Accepting new patients,MD-978886,oncology,130
+22,Teaching faculty,MD-883420,psychiatry,80
+23,Teaching faculty,MD-977127,cardiology,16
+24,Fellowship trained,MD-260842,internal_medicine,126
+25,Fellowship trained,MD-655317,psychiatry,154
+26,Accepting new patients,MD-137143,internal_medicine,182
+27,Fellowship trained,MD-916166,oncology,164
+28,Fellowship trained,MD-640447,pediatrics,61
+29,Board certified,MD-376497,orthopedics,19
+30,Teaching faculty,MD-273535,neurology,116
+31,Board certified,MD-243904,family_medicine,50
+32,Accepting new patients,MD-457279,psychiatry,166
+33,Accepting new patients,MD-366866,cardiology,100
+34,Fellowship trained,MD-914402,family_medicine,192
+35,Fellowship trained,MD-612905,orthopedics,161
+36,Fellowship trained,MD-528604,family_medicine,125
+37,Teaching faculty,MD-250901,pediatrics,4
+38,Accepting new patients,MD-334562,family_medicine,56
+39,Accepting new patients,MD-533612,family_medicine,107
+40,Board certified,MD-212579,family_medicine,48
+41,Board certified,MD-813497,pediatrics,151
+42,Fellowship trained,MD-992549,cardiology,124
+43,Teaching faculty,MD-940578,family_medicine,69
+44,Board certified,MD-071192,family_medicine,87
+45,Board certified,MD-215869,family_medicine,178
+46,Accepting new patients,MD-150324,pediatrics,40
+47,Fellowship trained,MD-778954,neurology,180
+48,Board certified,MD-142762,pediatrics,101
+49,Accepting new patients,MD-695820,obstetrics,36
+50,Board certified,MD-812849,internal_medicine,9
+51,Teaching faculty,MD-511027,general_surgery,118
+52,Teaching faculty,MD-259290,cardiology,30
+53,Board certified,MD-364023,internal_medicine,53
+54,Accepting new patients,MD-568142,internal_medicine,63
+55,Fellowship trained,MD-310787,oncology,94
+56,Board certified,MD-910345,family_medicine,108
+57,Accepting new patients,MD-910702,family_medicine,148
+58,Fellowship trained,MD-421413,pediatrics,105
+59,Board certified,MD-873701,pediatrics,32
+60,Fellowship trained,MD-270199,family_medicine,67
+61,Board certified,MD-060243,family_medicine,187
+62,Accepting new patients,MD-726980,psychiatry,95
+63,Board certified,MD-234440,pediatrics,104
+64,Accepting new patients,MD-608195,family_medicine,174
+65,Board certified,MD-422967,internal_medicine,194
+66,Board certified,MD-294238,pediatrics,17
+67,Fellowship trained,MD-452482,orthopedics,96
+68,Accepting new patients,MD-303262,family_medicine,83
+69,Accepting new patients,MD-774287,family_medicine,123
+70,Teaching faculty,MD-928685,internal_medicine,132
+71,Board certified,MD-771737,internal_medicine,6
+72,Board certified,MD-423215,internal_medicine,28
+73,Teaching faculty,MD-911504,cardiology,176
+74,Accepting new patients,MD-514830,orthopedics,117
+75,Board certified,MD-529425,cardiology,143
+76,Board certified,MD-115013,internal_medicine,127
+77,Fellowship trained,MD-945428,internal_medicine,35
+78,Accepting new patients,MD-491159,pediatrics,171
+79,Accepting new patients,MD-465634,cardiology,78
+80,Accepting new patients,MD-232007,oncology,158

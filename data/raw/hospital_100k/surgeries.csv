@@ -1,0 +1,31 @@
+id,description,name,risk_level
+1,One to three nights,Varicose vein surgery,low
+2,One to three nights,Rotator cuff repair,moderate
+3,Longer stay,Hernia repair,low
+4,Day case,Craniotomy,moderate
+5,Day case,Coronary bypass,high
+6,Day case,Gastric bypass,low
+7,Day case,Cataract surgery,low
+8,Longer stay,Pacemaker insertion,high
+9,Day case,Sinus surgery,moderate
+10,One to three nights,Skin graft,low
+11,Day case,Prostatectomy,high
+12,One to three nights,Appendectomy,low
+13,One to three nights,Cholecystectomy,moderate
+14,Day case,Colectomy,low
+15,Day case,Liver resection,moderate
+16,One to three nights,Lumpectomy,low
+17,Longer stay,Fracture fixation,low
+18,Longer stay,Angioplasty,high
+19,Day case,Mastectomy,low
+20,One to three nights,Hysterectomy,moderate
+21,Longer stay,Amputation,moderate
+22,Longer stay,Hip replacement,high
+23,One to three nights,Thyroidectomy,moderate
+24,One to three nights,Arthroscopy,low
+25,One to three nights,Cesarean section,moderate
+26,One to three nights,Carpal tunnel release,moderate
+27,Day case,Kidney transplant,low
+28,Day case,Tonsillectomy,moderate
+29,Longer stay,Knee replacement,high
+30,Longer stay,Spinal fusion,low

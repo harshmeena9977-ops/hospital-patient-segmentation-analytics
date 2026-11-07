@@ -1,0 +1,41 @@
+id,cost,description,name
+1,158.38,Blood sample,Calcium
+2,173.60,Blood sample,Comprehensive metabolic panel
+3,309.10,Swab,Pregnancy test
+4,79.67,Blood sample,Basic metabolic panel
+5,290.67,Stool sample,C-reactive protein
+6,158.48,Blood sample,Troponin
+7,18.35,Stool sample,Magnesium
+8,66.44,Urine sample,Lipase
+9,255.59,Blood sample,Lactate
+10,264.85,Blood sample,Hepatitis panel
+11,16.12,Urine sample,COVID-19 PCR
+12,140.10,Blood sample,Iron panel
+13,92.24,Swab,HIV screen
+14,39.71,Blood sample,Vitamin D
+15,120.26,Blood sample,Free T4
+16,253.98,Swab,Strep A rapid test
+17,294.31,Blood sample,D-dimer
+18,44.70,Blood sample,Folate
+19,17.22,Blood sample,Vitamin B12
+20,118.25,Urine sample,Urine culture
+21,330.42,Blood sample,Urinalysis
+22,32.30,Swab,Hemoglobin A1c
+23,120.42,Blood sample,Blood culture
+24,71.78,Swab,Erythrocyte sedimentation rate
+25,15.04,Blood sample,Arterial blood gas
+26,69.52,Stool sample,Complete blood count
+27,148.92,Blood sample,Phosphate
+28,351.71,Urine sample,Blood type and screen
+29,56.45,Swab,Influenza rapid test
+30,194.29,Blood sample,Ferritin
+31,243.59,Blood sample,Thyroid stimulating hormone
+32,27.55,Blood sample,Glucose tolerance test
+33,198.84,Urine sample,Kidney function panel
+34,166.89,Swab,B-type natriuretic peptide
+35,31.60,Swab,Lipid panel
+36,300.20,Blood sample,Stool culture
+37,80.53,Urine sample,Liver function panel
+38,35.65,Blood sample,Prothrombin time
+39,177.29,Blood sample,Uric acid
+40,137.51,Blood sample,Amylase

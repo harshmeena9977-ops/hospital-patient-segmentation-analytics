@@ -1,0 +1,151 @@
+id,category_id,description,name,quantity_in_stock,unit_price
+1,1,Case of 12,Disinfectant wipes,1458,21.45
+2,1,Box of 100,Specimen cups,39,28.39
+3,1,Box of 50,Nitrile gloves,265,20.62
+4,4,Box of 50,Surgical masks,1774,93.80
+5,1,Box of 100,Saline bags,1027,2.03
+6,4,Box of 100,Specimen cups,4,65.17
+7,8,Case of 12,Syringes 10 ml,149,41.63
+8,1,Box of 50,Gauze pads,1,108.50
+9,5,Box of 100,Adhesive bandages,101,0.59
+10,4,Case of 12,Disinfectant wipes,211,62.87
+11,2,Box of 50,Syringes 5 ml,31,96.35
+12,6,Box of 50,Syringes 10 ml,1222,33.82
+13,3,Box of 100,Saline bags,492,0.71
+14,3,Box of 100,Sutures,13,95.91
+15,4,Single unit,Printer paper,3,76.53
+16,2,Single unit,IV cannulas,438,52.46
+17,6,Box of 100,Pillowcases,31,17.14
+18,8,Box of 100,Scalpel blades,618,55.15
+19,1,Single unit,Syringes 5 ml,1709,73.84
+20,3,Box of 50,Bed sheets,70,9.63
+21,1,Box of 100,Hand sanitizer,319,49.62
+22,1,Single unit,Adhesive bandages,1178,0.68
+23,3,Box of 50,Bed sheets,1400,18.72
+24,3,Case of 12,Surgical masks,562,0.90
+25,4,Box of 50,Hand sanitizer,249,3.17
+26,2,Single unit,Disinfectant wipes,106,59.84
+27,1,Box of 50,Specimen cups,38,25.03
+28,2,Box of 100,Disinfectant wipes,857,6.73
+29,5,Single unit,Hand sanitizer,1562,104.59
+30,2,Box of 50,Specimen cups,173,80.44
+31,7,Single unit,Specimen cups,24,14.30
+32,1,Box of 100,Gauze pads,3,6.01
+33,6,Box of 50,Saline bags,556,3.86
+34,8,Single unit,Hand sanitizer,128,34.77
+35,3,Box of 100,Nitrile gloves,48,34.42
+36,5,Case of 12,Bed sheets,370,1.40
+37,1,Single unit,Printer paper,533,0.69
+38,2,Box of 50,Disinfectant wipes,528,11.17
+39,4,Box of 100,Gauze pads,297,58.06
+40,1,Single unit,Printer paper,4,112.45
+41,3,Single unit,Specimen cups,0,26.05
+42,7,Box of 100,Syringes 10 ml,1535,0.56
+43,2,Box of 50,Saline bags,170,118.10
+44,2,Single unit,Hand sanitizer,34,33.75
+45,1,Box of 100,Hand sanitizer,5,0.69
+46,3,Box of 100,Saline bags,963,28.78
+47,6,Box of 100,IV cannulas,18,86.44
+48,2,Case of 12,Adhesive bandages,530,76.22
+49,1,Case of 12,Printer paper,489,15.18
+50,5,Box of 100,Gauze pads,1787,7.36
+51,1,Box of 100,IV cannulas,260,112.56
+52,1,Box of 100,Gauze pads,211,2.65
+53,3,Box of 50,Saline bags,505,1.06
+54,6,Box of 50,Adhesive bandages,241,97.77
+55,3,Box of 50,Sutures,80,4.59
+56,1,Case of 12,Gauze pads,290,4.24
+57,1,Box of 100,Specimen cups,8,0.57
+58,4,Case of 12,Syringes 5 ml,171,0.52
+59,1,Box of 100,Printer paper,666,117.42
+60,5,Single unit,Printer paper,1464,57.43
+61,7,Box of 50,Disinfectant wipes,48,0.70
+62,7,Box of 100,Syringes 10 ml,277,28.65
+63,1,Single unit,Syringes 10 ml,1882,51.47
+64,1,Single unit,Hand sanitizer,302,21.68
+65,7,Box of 100,Bed sheets,1538,30.18
+66,1,Box of 100,Specimen cups,169,1.11
+67,1,Single unit,IV cannulas,44,81.77
+68,1,Single unit,Hand sanitizer,1753,8.16
+69,4,Single unit,Hand sanitizer,65,52.81
+70,3,Box of 100,Sutures,1623,5.30
+71,7,Box of 100,IV cannulas,1757,13.92
+72,7,Box of 100,Adhesive bandages,51,2.11
+73,1,Case of 12,Gauze pads,2,49.77
+74,1,Case of 12,IV cannulas,1638,15.11
+75,8,Single unit,Sutures,1032,41.00
+76,3,Case of 12,Disinfectant wipes,1496,1.72
+77,6,Box of 50,Gauze pads,1220,23.24
+78,1,Single unit,Disinfectant wipes,997,26.16
+79,1,Single unit,Printer paper,179,70.84
+80,1,Box of 50,Surgical masks,375,3.97
+81,2,Single unit,Surgical masks,245,113.71
+82,4,Box of 100,IV cannulas,1594,48.45
+83,3,Box of 50,Disinfectant wipes,53,71.45
+84,1,Case of 12,Syringes 5 ml,1449,94.39
+85,1,Box of 100,Nitrile gloves,41,5.56
+86,2,Box of 100,Printer paper,573,5.60
+87,6,Single unit,Saline bags,284,3.90
+88,3,Single unit,Pillowcases,1172,114.52
+89,1,Box of 100,Syringes 10 ml,1393,27.53
+90,3,Box of 50,Bed sheets,1301,1.15
+91,3,Box of 100,Scalpel blades,598,1.82
+92,5,Case of 12,Scalpel blades,166,0.81
+93,1,Case of 12,Sutures,1014,8.17
+94,5,Case of 12,Hand sanitizer,260,34.46
+95,4,Box of 50,Syringes 5 ml,624,30.27
+96,1,Case of 12,Gauze pads,202,14.04
+97,6,Single unit,Syringes 10 ml,531,41.68
+98,4,Single unit,Bed sheets,574,1.34
+99,1,Single unit,Pillowcases,0,48.10
+100,1,Single unit,Specimen cups,162,83.37
+101,4,Case of 12,Syringes 5 ml,182,2.35
+102,2,Box of 50,Pillowcases,1023,40.03
+103,1,Box of 100,Printer paper,896,76.73
+104,3,Case of 12,Specimen cups,1264,23.38
+105,5,Box of 100,IV cannulas,1457,76.92
+106,1,Case of 12,Specimen cups,882,106.30
+107,8,Single unit,Nitrile gloves,353,50.91
+108,1,Box of 100,Pillowcases,348,41.92
+109,1,Single unit,Syringes 10 ml,584,33.80
+110,1,Single unit,Specimen cups,1188,15.86
+111,1,Single unit,Sutures,239,5.82
+112,3,Box of 50,Adhesive bandages,232,1.18
+113,8,Case of 12,Gauze pads,292,20.05
+114,3,Single unit,Syringes 10 ml,624,109.15
+115,6,Box of 50,Scalpel blades,239,33.06
+116,1,Single unit,Disinfectant wipes,1366,1.05
+117,5,Box of 50,Nitrile gloves,0,100.64
+118,4,Case of 12,Disinfectant wipes,477,86.16
+119,2,Box of 50,Disinfectant wipes,0,7.81
+120,3,Single unit,Specimen cups,834,2.57
+121,1,Single unit,Surgical masks,873,92.57
+122,5,Box of 50,Bed sheets,7,93.27
+123,7,Single unit,Surgical masks,1263,43.91
+124,8,Box of 100,IV cannulas,346,64.60
+125,1,Case of 12,Bed sheets,704,0.55
+126,2,Box of 100,Bed sheets,585,2.76
+127,3,Single unit,Disinfectant wipes,399,100.93
+128,3,Box of 50,IV cannulas,324,0.50
+129,6,Case of 12,Nitrile gloves,4,3.52
+130,1,Box of 100,Syringes 5 ml,1649,28.02
+131,5,Case of 12,Surgical masks,5,1.71
+132,8,Box of 100,Adhesive bandages,89,112.41
+133,5,Box of 50,Scalpel blades,1281,4.91
+134,8,Single unit,Sutures,492,2.25
+135,1,Box of 50,Gauze pads,76,0.72
+136,2,Single unit,Sutures,106,17.28
+137,5,Box of 100,Bed sheets,912,1.72
+138,4,Single unit,Pillowcases,184,52.58
+139,2,Case of 12,Specimen cups,625,97.62
+140,6,Box of 100,Adhesive bandages,81,62.46
+141,2,Single unit,Sutures,1903,66.23
+142,2,Single unit,Surgical masks,159,97.71
+143,8,Case of 12,IV cannulas,1605,79.45
+144,1,Box of 50,Syringes 10 ml,31,61.30
+145,1,Single unit,Bed sheets,330,82.74
+146,1,Case of 12,Saline bags,1122,20.85
+147,2,Box of 100,Specimen cups,831,2.34
+148,5,Case of 12,Specimen cups,144,103.24
+149,4,Box of 100,Saline bags,1232,16.93
+150,4,Box of 50,IV cannulas,4,28.28

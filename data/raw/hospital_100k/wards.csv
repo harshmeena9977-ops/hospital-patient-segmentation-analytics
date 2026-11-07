@@ -1,0 +1,21 @@
+id,capacity,department_id,name,type
+1,18,7,Ward D,general
+2,21,5,Ward X,icu
+3,37,1,Ward S,pediatric
+4,39,8,Ward L,general
+5,30,2,Ward A,icu
+6,38,5,Ward G,maternity
+7,38,9,Ward T,general
+8,35,8,Ward C,pediatric
+9,14,4,Ward J,general
+10,18,6,Ward N,general
+11,35,11,Ward U,surgical
+12,15,2,Ward K,general
+13,23,3,Ward P,maternity
+14,14,8,Ward Y,general
+15,39,1,Ward W,surgical
+16,21,4,Ward V,maternity
+17,35,6,Ward B,general
+18,18,1,Ward H,surgical
+19,39,8,Ward O,general
+20,18,5,Ward Q,general

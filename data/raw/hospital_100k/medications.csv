@@ -1,0 +1,121 @@
+id,brand,description,dosage_form,name,strength
+1,Lind LLC,Prescription only,capsule,Salbutamol,500 mg
+2,"Rath, Ondricka and Koepp",Over the counter,tablet,Ondansetron,5 mg
+3,Dooley Inc,Prescription only,injection,Gabapentin,250 mg
+4,Grimes - Will,Hospital use only,capsule,Folic Acid,10 mg
+5,Doyle Group,Over the counter,capsule,Budesonide,250 mg
+6,Spinka LLC,Prescription only,tablet,Levothyroxine,20 mg
+7,"Schinner, Feeney and Kreiger",Prescription only,injection,Salbutamol,10 mg
+8,D'Amore - Reilly,Over the counter,capsule,Ciprofloxacin,250 mg
+9,"Rempel, Gerhold and Goldner",Over the counter,inhaler,Ciprofloxacin,1 g
+10,Wisoky - Witting,Hospital use only,tablet,Bupropion,40 mg
+11,Schmidt Inc,Prescription only,tablet,Levothyroxine,20 mg
+12,Brown - Daniel,Prescription only,tablet,Rosuvastatin,40 mg
+13,Robel LLC,Prescription only,tablet,Metoprolol,40 mg
+14,Franecki Inc,Prescription only,tablet,Ibuprofen,500 mg
+15,Bednar Inc,Hospital use only,tablet,Insulin Glargine,5 mg
+16,"Ullrich, Rogahn and Yost",Prescription only,cream,Clotrimazole,1 g
+17,Bernhard - Franecki,Prescription only,capsule,Doxycycline,250 mg
+18,"Kerluke, Sawayn and Stracke",Prescription only,capsule,Naproxen,40 mg
+19,"Cummings, Carroll-Dach and Von",Prescription only,syrup,Fluoxetine,10 mg
+20,"Labadie, McCullough and Jaskolski",Over the counter,tablet,Atorvastatin,250 mg
+21,Lindgren - Corwin,Prescription only,capsule,Clotrimazole,20 mg
+22,Kreiger - Kling,Prescription only,capsule,Fluoxetine,10 mg
+23,Lesch - Reilly,Prescription only,tablet,Loratadine,100 mg
+24,Paucek - Rolfson,Over the counter,cream,Rosuvastatin,5 mg
+25,O'Hara Inc,Prescription only,tablet,Paracetamol,500 mg
+26,Kihn and Sons,Prescription only,tablet,Losartan,40 mg
+27,"Weissnat, Mayert and Kautzer",Prescription only,tablet,Lisinopril,40 mg
+28,Schowalter Inc,Prescription only,inhaler,Furosemide,500 mg
+29,"Koepp, West and Dicki",Prescription only,tablet,Hydrocortisone,10 mg
+30,"Rippin, Feeney and Greenfelder",Hospital use only,capsule,Azithromycin,500 mg
+31,Nitzsche LLC,Prescription only,tablet,Doxycycline,5 mg
+32,Price - Rosenbaum,Over the counter,tablet,Metformin,500 mg
+33,"Beatty, Hagenes and Wiza-Hackett",Prescription only,tablet,Metoprolol,100 mg
+34,Lemke - Auer,Prescription only,tablet,Escitalopram,20 mg
+35,Rempel - Harris,Prescription only,tablet,Escitalopram,40 mg
+36,"Vandervort, Deckow and Casper",Prescription only,inhaler,Simvastatin,1 g
+37,Funk and Sons,Prescription only,tablet,Metformin,5 mg
+38,Cummerata LLC,Prescription only,tablet,Cetirizine,1 g
+39,"Wisoky, Schmeler and McGlynn",Over the counter,cream,Prednisone,5 mg
+40,Wiegand - Prohaska,Over the counter,tablet,Omeprazole,40 mg
+41,"Conn, Haag-Tillman and Crooks",Over the counter,syrup,Folic Acid,40 mg
+42,Roob and Sons,Prescription only,injection,Ferrous Sulfate,5 mg
+43,"Jacobs, Dach and Grant",Hospital use only,tablet,Folic Acid,500 mg
+44,Reinger Inc,Prescription only,injection,Budesonide,40 mg
+45,"Schinner, Kemmer and Douglas",Over the counter,capsule,Omeprazole,40 mg
+46,"Gutkowski, Thompson and Lang",Over the counter,tablet,Diclofenac,5 mg
+47,"Stamm, Ziemann and Doyle",Over the counter,injection,Cetirizine,5 mg
+48,"Vandervort, Streich and Boehm",Prescription only,tablet,Clotrimazole,500 mg
+49,Hamill - Gleichner,Prescription only,tablet,Losartan,250 mg
+50,Mitchell Inc,Prescription only,tablet,Metformin,40 mg
+51,"Fritsch, Effertz and Gleichner",Prescription only,inhaler,Metformin,20 mg
+52,"Luettgen, Sanford and Kulas",Prescription only,capsule,Loperamide,20 mg
+53,Watsica LLC,Prescription only,tablet,Folic Acid,100 mg
+54,Gerhold Group,Prescription only,tablet,Loperamide,100 mg
+55,Hills LLC,Prescription only,tablet,Diclofenac,5 mg
+56,Crona - Stracke,Prescription only,tablet,Levothyroxine,500 mg
+57,"Bailey, Connelly and Blanda",Prescription only,capsule,Hydrochlorothiazide,500 mg
+58,"Lind, Cummerata and Zulauf",Prescription only,capsule,Simvastatin,40 mg
+59,Rau LLC,Hospital use only,capsule,Cholecalciferol,10 mg
+60,Lang Inc,Prescription only,capsule,Amoxicillin,10 mg
+61,Steuber and Sons,Hospital use only,tablet,Folic Acid,500 mg
+62,Blick - Grady,Prescription only,injection,Finasteride,100 mg
+63,"Donnelly, Toy and Sporer",Hospital use only,inhaler,Gabapentin,10 mg
+64,Pfannerstill and Sons,Prescription only,tablet,Lisinopril,1 g
+65,Howe Inc,Prescription only,syrup,Amoxicillin,20 mg
+66,Stark and Sons,Prescription only,capsule,Hydrochlorothiazide,1 g
+67,Heidenreich LLC,Prescription only,syrup,Fluoxetine,250 mg
+68,Ebert Inc,Over the counter,cream,Sertraline,5 mg
+69,Zieme-Kub - Denesik,Hospital use only,capsule,Lisinopril,10 mg
+70,Lang - Prosacco-Gutkowski,Over the counter,injection,Lisinopril,5 mg
+71,"Huel, Hauck-Steuber and Bogisich-Terry",Over the counter,capsule,Esomeprazole,250 mg
+72,Rau LLC,Prescription only,tablet,Fluoxetine,250 mg
+73,Walter and Sons,Hospital use only,cream,Fluticasone,250 mg
+74,Kreiger - Cole,Prescription only,capsule,Allopurinol,250 mg
+75,"Bosco, Weissnat and Willms",Prescription only,tablet,Pantoprazole,5 mg
+76,O'Keefe Inc,Prescription only,tablet,Hydrocortisone,250 mg
+77,Stehr LLC,Prescription only,tablet,Rosuvastatin,250 mg
+78,Huels LLC,Prescription only,tablet,Fluticasone,10 mg
+79,Terry - Bartell,Over the counter,tablet,Sertraline,1 g
+80,"Ratke, Kerluke and Crona",Prescription only,tablet,Amlodipine,20 mg
+81,Murray-Wisoky LLC,Prescription only,capsule,Ferrous Sulfate,5 mg
+82,"Cronin, Murazik and Gerhold",Prescription only,syrup,Gabapentin,250 mg
+83,"Stroman, Sporer and Prohaska",Over the counter,tablet,Cetirizine,100 mg
+84,Zulauf LLC,Prescription only,tablet,Loperamide,20 mg
+85,Keeling - Jakubowski,Over the counter,tablet,Clopidogrel,1 g
+86,"Keebler, Powlowski and Dare",Hospital use only,syrup,Atorvastatin,100 mg
+87,"Schultz, Kemmer and Fadel",Prescription only,injection,Lisinopril,1 g
+88,Price - Lynch,Hospital use only,inhaler,Diclofenac,10 mg
+89,Heaney Group,Hospital use only,capsule,Loratadine,10 mg
+90,Kunde - Rodriguez,Over the counter,tablet,Melatonin,500 mg
+91,Schamberger - O'Hara,Over the counter,cream,Budesonide,500 mg
+92,Mohr - Jaskolski,Over the counter,cream,Hydrochlorothiazide,500 mg
+93,"Bernhard, Bednar and Zulauf",Prescription only,tablet,Insulin Glargine,20 mg
+94,Jacobson and Sons,Prescription only,capsule,Diclofenac,40 mg
+95,Wilderman - Jacobson,Prescription only,capsule,Clopidogrel,40 mg
+96,Stracke - Feest,Over the counter,tablet,Cholecalciferol,20 mg
+97,"Kreiger, Lind and Lakin",Over the counter,tablet,Finasteride,1 g
+98,Barrows and Sons,Prescription only,tablet,Losartan,20 mg
+99,Schowalter and Sons,Prescription only,capsule,Cholecalciferol,1 g
+100,White - Schroeder,Over the counter,capsule,Fluoxetine,5 mg
+101,Durgan - Schroeder,Prescription only,tablet,Ciprofloxacin,5 mg
+102,"Towne, Conn and Hermann",Prescription only,capsule,Clopidogrel,100 mg
+103,Schamberger - Armstrong,Prescription only,injection,Pantoprazole,5 mg
+104,Balistreri and Sons,Hospital use only,capsule,Loratadine,250 mg
+105,"Smith, Brekke and Kiehn",Prescription only,inhaler,Amlodipine,10 mg
+106,Leuschke Inc,Prescription only,capsule,Paracetamol,5 mg
+107,Stiedemann - Braun,Prescription only,injection,Escitalopram,1 g
+108,Runolfsson - Boehm,Over the counter,capsule,Metoprolol,500 mg
+109,"Block, Stamm and Zulauf",Over the counter,tablet,Montelukast,100 mg
+110,"Walsh, Champlin and Collins",Over the counter,cream,Furosemide,20 mg
+111,"Renner, Willms and Sauer",Prescription only,injection,Prednisone,100 mg
+112,Wehner - Ziemann,Prescription only,cream,Fluoxetine,500 mg
+113,Wolff - Littel,Prescription only,syrup,Atorvastatin,100 mg
+114,"Pouros, Rutherford and Ward",Prescription only,tablet,Prednisone,1 g
+115,Breitenberg - Kihn,Hospital use only,tablet,Tamsulosin,5 mg
+116,Reilly Inc,Prescription only,capsule,Folic Acid,500 mg
+117,Miller - Brekke,Hospital use only,tablet,Allopurinol,1 g
+118,Dickens - Gerlach,Prescription only,capsule,Ciprofloxacin,500 mg
+119,Beier - Baumbach,Prescription only,tablet,Insulin Glargine,5 mg
+120,Heaney - Kreiger,Over the counter,injection,Famotidine,100 mg

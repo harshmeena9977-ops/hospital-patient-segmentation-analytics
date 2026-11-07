@@ -1,0 +1,9 @@
+id,description,title
+1,Administrative,physician
+2,Administrative,nurse
+3,Administrative,pharmacist
+4,Administrative,administrator
+5,Clinical,receptionist
+6,Clinical,surgeon
+7,Clinical,radiologist
+8,Clinical support,lab_technician
