@@ -1,45 +1,42 @@
-# Hospital Segmentation Study: Patient Segmentation Using Healthcare Utilization, Billing, and Admission Data
+# Hospital Patient Segmentation — Internship Task Project
 
-## 📋 Project Overview
-This project addresses a critical operational challenge for a network of community clinics and hospitals in Hyderabad, which historically treated all patients, departments, and doctors uniformly. By leveraging an extensive anonymized healthcare dataset (**~500,000 rows across 33 relational tables**), this study transitions the network from a blanket operational model to a targeted, data-driven strategy to optimize resource allocation, patient retention, and revenue streams.
+This repository contains my Yuvaintern internship task project: an exploratory analysis of healthcare-style utilization, billing, and admission data. It demonstrates a notebook-based segmentation exercise; it is not a study commissioned by a Hyderabad hospital network, a deployed clinical system, or evidence of patient or business outcomes.
 
----
+## Project artifacts
 
-## 🛠️ Data Engineering & Preprocessing
-Working with real-world-style healthcare records required rigorous data pipeline construction:
-* **Relational Integration:** Programmatically loaded and validated 33 CSV tables, ensuring referential integrity across primary and foreign keys (appointments, inpatient admissions, lab tests, billing records).
-* **Data Cleaning:** Handled free-text medical diagnoses, normalized age entries provided as dates of birth, and corrected billing anomalies where GST was counted twice.
-* **Feature Engineering:** Synthesized multidimensional patient-level behavioral metrics:
-  * **Recency (`recency_days`):** Engagement timing relative to the analysis baseline.
-  * **Frequency (`visit_frequency`):** Total historical appointment and visit volume.
-  * **Monetary Value (`total_revenue`):** Cumulative paid revenue generated.
-  * **Clinical Metrics:** Average length of stay (`avg_los`), bed occupancy impact, and 30-day readmission tendency.
-* **Transformation & Scaling:** Applied logarithmic transformations ($\log(1+x)$) to manage heavy financial/utilization skewness, followed by feature standardization using `StandardScaler`.
+- [Open the analysis notebook](notebooks/analysis.ipynb.ipynb)
+- [View the project report](reports/project_report.docx)
+- [View the presentation deck](presentation/Hospital%20Segmentation%20Study%20-%20Comprehensive%20Executive%20Deck.pptx)
+- [View the Elbow plot](presentation/01_elbow_method.png)
+- [View the silhouette plot](presentation/02_silhouette_scores.png)
+- [View the cluster visualization](presentation/03_segment_clusters.png)
+- [View the processed patient dataset](data/processed/cleaned_data.csv)
+- [View the segment summary CSV](reports/segment_profiles.csv)
+- [Review the Python dependencies](requirements.txt)
 
----
+## What the notebook explores
 
-## 🤖 Modeling & Segmentation Methodology
-1. **Cluster Optimization:** Evaluated optimal cluster counts ($K$) using the **Elbow Method** (inertia reduction) and **Silhouette Analysis** (cohesion and separation).
-2. **Comparative Modeling:** Evaluated traditional RFM-style scoring against unsupervised **K-Means clustering** on scaled features, ultimately selecting K-Means for capturing complex multi-variable clinical behaviors.
-3. **Profiling:** Profiled each segment by population size, revenue/volume share, average length of stay, bed occupancy, and readmission risk, assigning intuitive business-friendly names.
-4. **Stability Analysis (Stretch Requirement):** Re-ran segmentation across multiple historical time periods to measure entity migration and ensure strategic reliability.
+The notebook loads multiple CSV tables, creates patient-level utilization and billing features, and includes an exploratory K-Means segmentation with saved cluster summaries and visualizations. The notebook also contains saved output from a readmission calculation. These outputs are exploratory and have not been independently validated against an external source or clinical standard.
 
----
+## Evidence and limitations
 
-## 📂 Repository Structure
-```text
-hospital-patient-segmentation-analytics/
-├── data/
-│   ├── raw/                 # Original anonymized CSV files (33 relational tables)
-│   └── processed/           # Cleaned and feature-engineered datasets (`cleaned_patient_dataset.csv`)
-├── notebooks/
-│   └── analysis.ipynb       # End-to-end Jupyter Notebook pipeline
-├── reports/
-│   ├── project_report.docx  # Final project report Word document submission
-│   └── segment_profiles.csv # Summary table of segment metrics and sizes
-├── presentation/
-│   ├── executive_slides.pdf # Short presentation for the business head
-│   └── images/              # Visualizations and screenshots (Elbow, Silhouette, Clusters, Migration)
-├── .gitignore               # Excludes large files, cache, and checkpoints
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+The repository includes raw CSV tables under data/raw/hospital_100k and a processed CSV at data/processed/cleaned_data.csv. The dataset publisher, generation method, license, and whether the records are synthetic or anonymized are not documented. The project should therefore be described as using healthcare-style data, not verified real hospital or patient records. The project files do not establish a real hospital client or deployment.
+
+There is an unresolved output mismatch: the notebook reports a five-cluster result, while reports/segment_profiles.csv contains four named segments. Reconcile the segment labels, definitions, and metrics before presenting the CSV, report, or slides as a single validated result. Numerical findings and operational recommendations are not included here until that reconciliation is complete.
+
+The notebook currently points to a machine-specific Windows folder (D:\Healthcare-Segmentation\data\raw\hospital_100k). A clean clone will not use that path automatically. Update the notebook to use the repository-relative data/raw/hospital_100k folder before attempting a fresh run. The requirements file lists analysis libraries but does not include Jupyter itself, and no end-to-end run guide is provided.
+
+## Repository layout
+
+- data/raw/hospital_100k/ — raw healthcare-style CSV tables.
+- data/processed/cleaned_data.csv — processed dataset.
+- notebooks/analysis.ipynb.ipynb — analysis notebook; note the duplicated .ipynb extension in the filename.
+- reports/ — project report and segment summary CSV.
+- presentation/ — three PNG plots and a PowerPoint deck. No executive_slides.pdf or presentation/images/ folder is present.
+- requirements.txt — Python analysis dependencies.
+
+## Local setup status
+
+The notebook is available to review on GitHub. To reproduce it locally, clone the repository, create and activate a Python virtual environment, install requirements.txt, install or open a Jupyter environment, and update the notebook data path to the local repository folder. A fresh, clean run has not been verified, so saved outputs should be treated as notebook artifacts rather than a reproducible release.
+
+This README update documents the current files and known gaps. It does not change the analysis, dataset, reports, or presentation.
